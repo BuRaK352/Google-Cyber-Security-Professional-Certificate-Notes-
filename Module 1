@@ -1,6 +1,9 @@
-TYPE OF NETWORKS
-Local Area network (LAN)
-spans a small area like office building, school, home etc like wifi
+# Types of Networks
 
-Wide area network(WAN)     
-spans a large geograpical area like a city state or country, u can think of the internet as a big WAN.
+## 1. Local Area Network (LAN)
+- Covers a **small area**, such as an office building, school, or home.
+- Example: Wi-Fi network at home or in an office.
+
+## 2. Wide Area Network (WAN)
+- Covers a **large geographical area**, such as a city, state, or country.
+- Example: The Internet can be considered a huge WAN.
